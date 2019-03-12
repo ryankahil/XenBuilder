@@ -1,0 +1,7 @@
+env/
+venv/
+*.BACKUP
+__pycache__/
+*.pyc
+bsdxenvmbuilder.egg-info/
+xenbuilder.config
